@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Programming Fundementals Final Project 
 ---
 
 * TOC
@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+Just a chill guy doing some coding 
 
 ## About My Project
 
-Project description goes here.
+Blackjack with GUI using python, Tkinter, and pygame. Includes a GUI and a money system to gamble your heart away.
 
 [My Final Report](files/finalreport.pdf)
 
