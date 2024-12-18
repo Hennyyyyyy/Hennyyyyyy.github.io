@@ -12,9 +12,8 @@ Just a chill guy doing some coding
 
 ## About My Project
 
-Blackjack with GUI using python, Tkinter, and pygame. Includes a GUI and a money system to gamble your heart away.
+10 day project: Implementation of Blackjack with GUI using python and tkinter. Includes a GUI and a money system to gamble your heart away.
 
-[My Final Report](files/finalreport.pdf)
 
 ## My Blog
 
