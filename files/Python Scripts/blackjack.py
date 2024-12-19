@@ -51,6 +51,13 @@ def start_game():
             """
             Ends the game and allows the game to be played again after game is over
             """
+
+            #suspend player interaction with cards
+            standd.place_forget()
+            hitt.place_forget()
+            doublee.place_forget()
+            foldd.place_forget()
+        
             def no():
                 """
                 Executes when player does not want to play again 
@@ -68,10 +75,6 @@ def start_game():
                 dcards.place_forget()
                 plabel.place_forget()
                 dlabel.place_forget()
-                standd.place_forget()
-                hitt.place_forget()
-                doublee.place_forget()
-                foldd.place_forget()
                 gameover.place_forget()
                 yess.place_forget()
                 noo.place_forget()
